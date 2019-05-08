@@ -1,0 +1,3018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>播放列表</title>
+	<trackList>
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv1hd.m3u8</location>
+		<title>CCTV-1综合高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>0</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls74a2.m3u8</location>
+		<title>CCTV-1综合高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>1</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls27.m3u8</location>
+		<title>CCTV-1综合高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>2</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/jlu_cctv1hd.m3u8</location>
+		<title>CCTV-1综合高清000</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>3</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv2hd.m3u8</location>
+		<title>CCTV-2财经高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>4</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls74a3.m3u8</location>
+		<title>CCTV-2财经高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>5</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/jlu_cctv2hd.m3u8</location>
+		<title>CCTV-2财经高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>6</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls135.m3u8</location>
+		<title>CCTV-2财经高清000</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>7</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv3hd.m3u8</location>
+		<title>CCTV-3文艺高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>8</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv4hd.m3u8</location>
+		<title>CCTV-4亚洲高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>9</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls68a40.m3u8</location>
+		<title>CCTV-4亚洲高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>10</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls4.m3u8</location>
+		<title>CCTV-4亚洲高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>11</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv5hd.m3u8</location>
+		<title>CCTV-5体育高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>12</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls73a5.m3u8</location>
+		<title>CCTV-5体育高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>13</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/jlu_cctv5hd.m3u8</location>
+		<title>CCTV-5体育高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>14</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv5phd.m3u8</location>
+		<title>CCTV体育赛事高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>15</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls73a6.m3u8</location>
+		<title>CCTV体育赛事高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>16</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls92.m3u8</location>
+		<title>CCTV体育赛事高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>17</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/jlu_cctv5p.m3u8</location>
+		<title>CCTV体育赛事高清000</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>18</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv6hd.m3u8</location>
+		<title>CCTV-6电影高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>19</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv7hd.m3u8</location>
+		<title>CCTV-7军事农业高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>20</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls73a8.m3u8</location>
+		<title>CCTV-7军事农业高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>21</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls136.m3u8</location>
+		<title>CCTV-7军事农业高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>22</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv8hd.m3u8</location>
+		<title>CCTV-8电视剧高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>23</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv9hd.m3u8</location>
+		<title>CCTV-9纪录高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>24</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls72a10.m3u8</location>
+		<title>CCTV-9纪录高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>25</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls67a44.m3u8</location>
+		<title>CGTN-纪录高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>26</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv10hd.m3u8</location>
+		<title>CCTV-10科教高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>27</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls138.m3u8</location>
+		<title>CCTV-10科教高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>28</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls72a11.m3u8</location>
+		<title>CCTV-10科教高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>29</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv12hd.m3u8</location>
+		<title>CCTV-12社会与法高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>30</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls72a12.m3u8</location>
+		<title>CCTV-12社会与法高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>31</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls139.m3u8</location>
+		<title>CCTV-12社会与法高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>32</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv14hd.m3u8</location>
+		<title>CCTV-14少儿高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>33</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls71a13.m3u8</location>
+		<title>CCTV-14少儿高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>34</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls140.m3u8</location>
+		<title>CCTV-14少儿高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>35</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls67a43.m3u8</location>
+		<title>CGTN高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>36</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/chchd.m3u8</location>
+		<title>CHC高清电影高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>37</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hunanhd.m3u8</location>
+		<title>湖南卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>38</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls71a15.m3u8</location>
+		<title>湖南卫视高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>39</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls115.m3u8</location>
+		<title>湖南卫视高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>40</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/jlu_hnhd.m3u8</location>
+		<title>湖南卫视高清000</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>41</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/zjhd.m3u8</location>
+		<title>浙江卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>42</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls68a51.m3u8</location>
+		<title>浙江卫视高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>43</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls123.m3u8</location>
+		<title>浙江卫视高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>44</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/dfhd.m3u8</location>
+		<title>东方卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>45</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls69a24.m3u8</location>
+		<title>东方卫视高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>46</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls122.m3u8</location>
+		<title>东方卫视高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>47</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/jshd.m3u8</location>
+		<title>江苏卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>48</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls116.m3u8</location>
+		<title>江苏卫视高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>49</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls68a52.m3u8</location>
+		<title>江苏卫视高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>50</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/btv1hd.m3u8</location>
+		<title>北京卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>51</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls69a21.m3u8</location>
+		<title>北京卫视高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>52</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls117.m3u8</location>
+		<title>北京卫视高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>53</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/ahhd.m3u8</location>
+		<title>安徽卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>54</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls71a16.m3u8</location>
+		<title>安徽卫视高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>55</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls141.m3u8</location>
+		<title>安徽卫视高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>56</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/szhd.m3u8</location>
+		<title>深圳卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>57</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls110.m3u8</location>
+		<title>深圳卫视高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>58</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls70a20.m3u8</location>
+		<title>深圳卫视高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>59</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/lnhd.m3u8</location>
+		<title>辽宁卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>60</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls74a1.m3u8</location>
+		<title>辽宁卫视高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>61</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls126.m3u8</location>
+		<title>辽宁卫视高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>62</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/jlhd.m3u8</location>
+		<title>吉林卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>63</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hljhd.m3u8</location>
+		<title>黑龙江卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>64</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls95.m3u8</location>
+		<title>黑龙江卫视高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>65</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls71a14.m3u8</location>
+		<title>黑龙江卫视高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>66</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/tjhd.m3u8</location>
+		<title>天津卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>67</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls69a22.m3u8</location>
+		<title>天津卫视高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>68</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls125.m3u8</location>
+		<title>天津卫视高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>69</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cqhd.m3u8</location>
+		<title>重庆卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>70</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls186.m3u8</location>
+		<title>重庆卫视高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>71</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls68a41.m3u8</location>
+		<title>重庆卫视高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>72</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hbhd.m3u8</location>
+		<title>湖北卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>73</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls70a17.m3u8</location>
+		<title>湖北卫视高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>74</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/sdhd.m3u8</location>
+		<title>山东卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>75</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls70a18.m3u8</location>
+		<title>山东卫视高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>76</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls131.m3u8</location>
+		<title>山东卫视高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>77</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/gdhd.m3u8</location>
+		<title>广东卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>78</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls70a19.m3u8</location>
+		<title>广东卫视高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>79</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls130.m3u8</location>
+		<title>广东卫视高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>80</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/schd.m3u8</location>
+		<title>四川卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>81</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls185.m3u8</location>
+		<title>四川卫视高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>82</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls67a42.m3u8</location>
+		<title>四川卫视高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>83</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hnhd.m3u8</location>
+		<title>河南卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>84</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/dnhd.m3u8</location>
+		<title>东南卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>85</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls77a55.m3u8</location>
+		<title>东南卫视高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>86</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/lyhd.m3u8</location>
+		<title>海南卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>87</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hebhd.m3u8</location>
+		<title>河北卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>88</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/jxhd.m3u8</location>
+		<title>江西卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>89</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/gxhd.m3u8</location>
+		<title>广西卫视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>90</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls124.m3u8</location>
+		<title>湖北卫视高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>91</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/btv2hd.m3u8</location>
+		<title>BTV文艺高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>92</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/btv4hd.m3u8</location>
+		<title>BTV影视高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>93</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/btv6hd.m3u8</location>
+		<title>BTV体育高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>94</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/btv9hd.m3u8</location>
+		<title>BTV新闻高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>95</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/btv11hd.m3u8</location>
+		<title>BTV纪实高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>96</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls69a25.m3u8</location>
+		<title>BTV纪实高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>97</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls162.m3u8</location>
+		<title>BTV纪实高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>98</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/gedocu.m3u8</location>
+		<title>金鹰纪实高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>99</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls75a26.m3u8</location>
+		<title>金鹰纪实高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>100</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls163.m3u8</location>
+		<title>金鹰纪实高清00</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>101</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/docuchina.m3u8</location>
+		<title>上视纪实高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>102</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/documentaryhd.m3u8</location>
+		<title>全纪实高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>103</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/zqhd.m3u8</location>
+		<title>足球频道高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>104</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls75a28.m3u8</location>
+		<title>家庭剧场HD高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>105</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls165.m3u8</location>
+		<title>家庭剧场HD高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>106</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls75a27.m3u8</location>
+		<title>大众影视HD高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>107</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls164.m3u8</location>
+		<title>大众影视HD高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>108</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls75a29.m3u8</location>
+		<title>家庭影院HD高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>109</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls166.m3u8</location>
+		<title>家庭影院HD高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>110</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls78a46.m3u8</location>
+		<title>爱映画高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>111</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls77a30.m3u8</location>
+		<title>卡通剧场HD高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>112</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls167.m3u8</location>
+		<title>卡通剧场HD高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>113</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls78a47.m3u8</location>
+		<title>晴天动画馆高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>114</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls78a48.m3u8</location>
+		<title>时光剧场高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>115</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cetv1hd.m3u8</location>
+		<title>CETV-1高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>116</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls67a45.m3u8</location>
+		<title>CETV-1高清0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>117</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls148.m3u8</location>
+		<title>熊猫频道高清</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>118</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv1.m3u8</location>
+		<title>CCTV-1综合</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>119</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls1.m3u8</location>
+		<title>CCTV-1综合0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>120</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv2.m3u8</location>
+		<title>CCTV-2财经</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>121</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls2.m3u8</location>
+		<title>CCTV-2财经0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>122</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv3.m3u8</location>
+		<title>CCTV-3文艺</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>123</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv4.m3u8</location>
+		<title>CCTV-4亚洲</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>124</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv5.m3u8</location>
+		<title>CCTV-5体育</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>125</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv6.m3u8</location>
+		<title>CCTV-6电影</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>126</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv7.m3u8</location>
+		<title>CCTV-7军事农业</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>127</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls7.m3u8</location>
+		<title>CCTV-7军事农业0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>128</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv8.m3u8</location>
+		<title>CCTV-8电视剧</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>129</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv9.m3u8</location>
+		<title>CCTV-9纪录</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>130</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls5.m3u8</location>
+		<title>CCTV-9纪录0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>131</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv10.m3u8</location>
+		<title>CCTV-10科教</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>132</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls10.m3u8</location>
+		<title>CCTV-10科教0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>133</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv11.m3u8</location>
+		<title>CCTV-11戏曲</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>134</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls11.m3u8</location>
+		<title>CCTV-11戏曲0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>135</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv12.m3u8</location>
+		<title>CCTV-12社会与法</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>136</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls12.m3u8</location>
+		<title>CCTV-12社会与法0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>137</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv13.m3u8</location>
+		<title>CCTV-13新闻</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>138</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls13.m3u8</location>
+		<title>CCTV-13新闻0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>139</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv14.m3u8</location>
+		<title>CCTV-14少儿</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>140</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls14.m3u8</location>
+		<title>CCTV-14少儿0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>141</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv15.m3u8</location>
+		<title>CCTV-15音乐</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>142</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls41.m3u8</location>
+		<title>CCTV-15音乐0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>143</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/dyjctv.m3u8</location>
+		<title>CCTV第一剧场</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>144</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hjjctv.m3u8</location>
+		<title>CCTV怀旧剧场</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>145</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls94.m3u8</location>
+		<title>CCTV怀旧剧场0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>146</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/fyjctv.m3u8</location>
+		<title>CCTV风云剧场</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>147</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/fyyytv.m3u8</location>
+		<title>CCTV风云音乐</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>148</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/sjdltv.m3u8</location>
+		<title>CCTV世界地理</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>149</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/fyzqtv.m3u8</location>
+		<title>CCTV风云足球</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>150</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls20.m3u8</location>
+		<title>CCTV风云足球0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>151</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/gfjstv.m3u8</location>
+		<title>CCTV国防军事</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>152</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls23.m3u8</location>
+		<title>CCTV国防军事0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>153</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls44.m3u8</location>
+		<title>CCTV女性时尚</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>154</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls113.m3u8</location>
+		<title>CCTV老故事</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>155</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls61.m3u8</location>
+		<title>CCTV央视文化精品</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>156</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/btv1.m3u8</location>
+		<title>北京卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>157</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls68.m3u8</location>
+		<title>北京卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>158</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hunantv.m3u8</location>
+		<title>湖南卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>159</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls69.m3u8</location>
+		<title>湖南卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>160</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/zjtv.m3u8</location>
+		<title>浙江卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>161</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls70.m3u8</location>
+		<title>浙江卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>162</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/dftv.m3u8</location>
+		<title>东方卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>163</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/jstv.m3u8</location>
+		<title>江苏卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>164</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls17.m3u8</location>
+		<title>江苏卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>165</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/ahtv.m3u8</location>
+		<title>安徽卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>166</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls73.m3u8</location>
+		<title>安徽卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>167</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/sztv.m3u8</location>
+		<title>深圳卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>168</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls106.m3u8</location>
+		<title>深圳卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>169</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/lntv.m3u8</location>
+		<title>辽宁卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>170</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls16.m3u8</location>
+		<title>辽宁卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>171</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/jltv.m3u8</location>
+		<title>吉林卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>172</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls84.m3u8</location>
+		<title>吉林卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>173</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hljtv.m3u8</location>
+		<title>黑龙江卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>174</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls85.m3u8</location>
+		<title>黑龙江卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>175</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/tjtv.m3u8</location>
+		<title>天津卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>176</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls81.m3u8</location>
+		<title>天津卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>177</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cqtv.m3u8</location>
+		<title>重庆卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>178</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls75.m3u8</location>
+		<title>重庆卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>179</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hbtv.m3u8</location>
+		<title>湖北卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>180</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls83.m3u8</location>
+		<title>湖北卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>181</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/sdtv.m3u8</location>
+		<title>山东卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>182</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls78.m3u8</location>
+		<title>山东卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>183</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/gdtv.m3u8</location>
+		<title>广东卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>184</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls72.m3u8</location>
+		<title>广东卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>185</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/sctv.m3u8</location>
+		<title>四川卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>186</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls77.m3u8</location>
+		<title>四川卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>187</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hntv.m3u8</location>
+		<title>河南卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>188</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls80.m3u8</location>
+		<title>河南卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>189</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/dntv.m3u8</location>
+		<title>东南卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>190</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls74.m3u8</location>
+		<title>东南卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>191</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/lytv.m3u8</location>
+		<title>海南卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>192</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls71.m3u8</location>
+		<title>海南卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>193</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hebtv.m3u8</location>
+		<title>河北卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>194</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls49.m3u8</location>
+		<title>河北卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>195</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/jxtv.m3u8</location>
+		<title>江西卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>196</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls82.m3u8</location>
+		<title>江西卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>197</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/gxtv.m3u8</location>
+		<title>广西卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>198</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls76.m3u8</location>
+		<title>广西卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>199</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/sxtv.m3u8</location>
+		<title>陕西卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>200</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls35.m3u8</location>
+		<title>陕西卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>201</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/nxtv.m3u8</location>
+		<title>宁夏卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>202</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls34.m3u8</location>
+		<title>宁夏卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>203</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/sxrtv.m3u8</location>
+		<title>山西卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>204</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls86.m3u8</location>
+		<title>山西卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>205</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/gztv.m3u8</location>
+		<title>贵州卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>206</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls87.m3u8</location>
+		<title>贵州卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>207</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/gstv.m3u8</location>
+		<title>甘肃卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>208</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls50.m3u8</location>
+		<title>甘肃卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>209</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/bttv.m3u8</location>
+		<title>兵团卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>210</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls67.m3u8</location>
+		<title>兵团卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>211</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/xjtv.m3u8</location>
+		<title>新疆卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>212</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls18.m3u8</location>
+		<title>新疆卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>213</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/yntv.m3u8</location>
+		<title>云南卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>214</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls40.m3u8</location>
+		<title>云南卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>215</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/xztv.m3u8</location>
+		<title>西藏卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>216</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls114.m3u8</location>
+		<title>西藏卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>217</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/xmtv.m3u8</location>
+		<title>厦门卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>218</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls160.m3u8</location>
+		<title>厦门卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>219</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/nmtv.m3u8</location>
+		<title>内蒙古卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>220</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls111.m3u8</location>
+		<title>内蒙古卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>221</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/qhtv.m3u8</location>
+		<title>青海卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>222</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls101.m3u8</location>
+		<title>青海卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>223</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls161.m3u8</location>
+		<title>延边卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>224</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/ybtv.m3u8</location>
+		<title>延边卫视0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>225</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/fhzw.m3u8</location>
+		<title>凤凰卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>226</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/startv.m3u8</location>
+		<title>星空卫视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>227</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cctv16.m3u8</location>
+		<title>CGTN</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>228</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/btv2.m3u8</location>
+		<title>BTV文艺</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>229</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/btv3.m3u8</location>
+		<title>BTV科教</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>230</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/btv4.m3u8</location>
+		<title>BTV影视</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>231</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/btv5.m3u8</location>
+		<title>BTV财经</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>232</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/btv6.m3u8</location>
+		<title>BTV体育</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>233</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/btv7.m3u8</location>
+		<title>BTV生活</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>234</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/btv8.m3u8</location>
+		<title>BTV青少</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>235</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/btv9.m3u8</location>
+		<title>BTV新闻</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>236</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/btv10.m3u8</location>
+		<title>BTV卡酷少儿</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>237</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls57.m3u8</location>
+		<title>BTV卡酷少儿0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>238</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls142.m3u8</location>
+		<title>沈阳新闻综合</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>239</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls9.m3u8</location>
+		<title>沈阳新闻综合0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>240</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cetv1.m3u8</location>
+		<title>CETV-1</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>241</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cetv3.m3u8</location>
+		<title>CETV-3</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>242</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/cetv4.m3u8</location>
+		<title>CETV-4</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>243</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls25.m3u8</location>
+		<title>早期教育</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>244</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/sdetv.m3u8</location>
+		<title>山东教育台</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>245</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/fhzx.m3u8</location>
+		<title>凤凰资讯</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>246</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/fhdy.m3u8</location>
+		<title>凤凰电影</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>247</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/discovery.m3u8</location>
+		<title>探索频道</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>248</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/channelv.m3u8</location>
+		<title>Channel[V]</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>249</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/chctv.m3u8</location>
+		<title>CHC家庭影院</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>250</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/chcatv.m3u8</location>
+		<title>CHC动作电影</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>251</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/natlgeo.m3u8</location>
+		<title>国家地理频道</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>252</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/starsports.m3u8</location>
+		<title>Star Sports</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>253</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls109.m3u8</location>
+		<title>DV生活</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>254</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls21.m3u8</location>
+		<title>宜佳购物</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>255</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls3.m3u8</location>
+		<title>辽宁体育</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>256</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls96.m3u8</location>
+		<title>辽宁生活</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>257</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls55.m3u8</location>
+		<title>辽宁北方</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>258</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls88.m3u8</location>
+		<title>辽宁都市</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>259</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls97.m3u8</location>
+		<title>辽宁影视剧</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>260</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls99.m3u8</location>
+		<title>辽宁教育青少</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>261</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/jykttv.m3u8</location>
+		<title>金鹰卡通</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>262</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls158.m3u8</location>
+		<title>金鹰卡通0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>263</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls159.m3u8</location>
+		<title>优漫卡通</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>264</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls64.m3u8</location>
+		<title>新动漫</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>265</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls104.m3u8</location>
+		<title>少儿动画</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>266</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls157.m3u8</location>
+		<title>嘉佳卡通</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>267</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls103.m3u8</location>
+		<title>哈哈炫动</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>268</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls65.m3u8</location>
+		<title>GTV网络棋牌</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>269</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls112.m3u8</location>
+		<title>GTV游戏竞技</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>270</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls196.m3u8</location>
+		<title>电竞世界</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>271</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls24.m3u8</location>
+		<title>电子体育</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>272</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls89.m3u8</location>
+		<title>经典剧场</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>273</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls30.m3u8</location>
+		<title>亚洲电影</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>274</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls32.m3u8</location>
+		<title>热播电影</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>275</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls37.m3u8</location>
+		<title>生活剧场</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>276</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls33.m3u8</location>
+		<title>原声电影</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>277</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls39.m3u8</location>
+		<title>家庭影院</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>278</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls48.m3u8</location>
+		<title>怀旧电影</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>279</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls54.m3u8</location>
+		<title>古装剧场</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>280</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls147.m3u8</location>
+		<title>喜剧电影</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>281</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls6.m3u8</location>
+		<title>喜剧影院</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>282</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls155.m3u8</location>
+		<title>劲爆电影</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>283</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls31.m3u8</location>
+		<title>译制片</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>284</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls8.m3u8</location>
+		<title>北方商务</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>285</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls102.m3u8</location>
+		<title>精选</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>286</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls59.m3u8</location>
+		<title>星影</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>287</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls66.m3u8</location>
+		<title>纪录片</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>288</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls43.m3u8</location>
+		<title>暖TV</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>289</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls153.m3u8</location>
+		<title>户外旅游</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>290</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls19.m3u8</location>
+		<title>家庭理财</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>291</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls15.m3u8</location>
+		<title>家庭理财0</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>292</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls46.m3u8</location>
+		<title>靓妆</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>293</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/jlu_jsds.m3u8</location>
+		<title>吉林都市</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>294</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls22.m3u8</location>
+		<title>文物宝库</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>295</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls36.m3u8</location>
+		<title>武术世界</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>296</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls42.m3u8</location>
+		<title>梨园频道</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>297</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls62.m3u8</location>
+		<title>环球奇观</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>298</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls100.m3u8</location>
+		<title>国学频道</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>299</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	<track>
+		<location>http://tv6.ustc.edu.cn/hls/hls107.m3u8</location>
+		<title>英语辅导</title>
+		<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:id>300</vlc:id>
+			<vlc:option>network-caching=1000</vlc:option>
+		</extension>
+	</track>
+
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+			<vlc:item tid="36"/>
+			<vlc:item tid="37"/>
+			<vlc:item tid="38"/>
+			<vlc:item tid="39"/>
+			<vlc:item tid="40"/>
+			<vlc:item tid="41"/>
+			<vlc:item tid="42"/>
+			<vlc:item tid="43"/>
+			<vlc:item tid="44"/>
+			<vlc:item tid="45"/>
+			<vlc:item tid="46"/>
+			<vlc:item tid="47"/>
+			<vlc:item tid="48"/>
+			<vlc:item tid="49"/>
+			<vlc:item tid="50"/>
+			<vlc:item tid="51"/>
+			<vlc:item tid="52"/>
+			<vlc:item tid="53"/>
+			<vlc:item tid="54"/>
+			<vlc:item tid="55"/>
+			<vlc:item tid="56"/>
+			<vlc:item tid="57"/>
+			<vlc:item tid="58"/>
+			<vlc:item tid="59"/>
+			<vlc:item tid="60"/>
+			<vlc:item tid="61"/>
+			<vlc:item tid="62"/>
+			<vlc:item tid="63"/>
+			<vlc:item tid="64"/>
+			<vlc:item tid="65"/>
+			<vlc:item tid="66"/>
+			<vlc:item tid="67"/>
+			<vlc:item tid="68"/>
+			<vlc:item tid="69"/>
+			<vlc:item tid="70"/>
+			<vlc:item tid="71"/>
+			<vlc:item tid="72"/>
+			<vlc:item tid="73"/>
+			<vlc:item tid="74"/>
+			<vlc:item tid="75"/>
+			<vlc:item tid="76"/>
+			<vlc:item tid="77"/>
+			<vlc:item tid="78"/>
+			<vlc:item tid="79"/>
+			<vlc:item tid="80"/>
+			<vlc:item tid="81"/>
+			<vlc:item tid="82"/>
+			<vlc:item tid="83"/>
+			<vlc:item tid="84"/>
+			<vlc:item tid="85"/>
+			<vlc:item tid="86"/>
+			<vlc:item tid="87"/>
+			<vlc:item tid="88"/>
+			<vlc:item tid="89"/>
+			<vlc:item tid="90"/>
+			<vlc:item tid="91"/>
+			<vlc:item tid="92"/>
+			<vlc:item tid="93"/>
+			<vlc:item tid="94"/>
+			<vlc:item tid="95"/>
+			<vlc:item tid="96"/>
+			<vlc:item tid="97"/>
+			<vlc:item tid="98"/>
+			<vlc:item tid="99"/>
+			<vlc:item tid="100"/>
+			<vlc:item tid="101"/>
+			<vlc:item tid="102"/>
+			<vlc:item tid="103"/>
+			<vlc:item tid="104"/>
+			<vlc:item tid="105"/>
+			<vlc:item tid="106"/>
+			<vlc:item tid="107"/>
+			<vlc:item tid="108"/>
+			<vlc:item tid="109"/>
+			<vlc:item tid="110"/>
+			<vlc:item tid="111"/>
+			<vlc:item tid="112"/>
+			<vlc:item tid="113"/>
+			<vlc:item tid="114"/>
+			<vlc:item tid="115"/>
+			<vlc:item tid="116"/>
+			<vlc:item tid="117"/>
+			<vlc:item tid="118"/>
+			<vlc:item tid="119"/>
+			<vlc:item tid="120"/>
+			<vlc:item tid="121"/>
+			<vlc:item tid="122"/>
+			<vlc:item tid="123"/>
+			<vlc:item tid="124"/>
+			<vlc:item tid="125"/>
+			<vlc:item tid="126"/>
+			<vlc:item tid="127"/>
+			<vlc:item tid="128"/>
+			<vlc:item tid="129"/>
+			<vlc:item tid="130"/>
+			<vlc:item tid="131"/>
+			<vlc:item tid="132"/>
+			<vlc:item tid="133"/>
+			<vlc:item tid="134"/>
+			<vlc:item tid="135"/>
+			<vlc:item tid="136"/>
+			<vlc:item tid="137"/>
+			<vlc:item tid="138"/>
+			<vlc:item tid="139"/>
+			<vlc:item tid="140"/>
+			<vlc:item tid="141"/>
+			<vlc:item tid="142"/>
+			<vlc:item tid="143"/>
+			<vlc:item tid="144"/>
+			<vlc:item tid="145"/>
+			<vlc:item tid="146"/>
+			<vlc:item tid="147"/>
+			<vlc:item tid="148"/>
+			<vlc:item tid="149"/>
+			<vlc:item tid="150"/>
+			<vlc:item tid="151"/>
+			<vlc:item tid="152"/>
+			<vlc:item tid="153"/>
+			<vlc:item tid="154"/>
+			<vlc:item tid="155"/>
+			<vlc:item tid="156"/>
+			<vlc:item tid="157"/>
+			<vlc:item tid="158"/>
+			<vlc:item tid="159"/>
+			<vlc:item tid="160"/>
+			<vlc:item tid="161"/>
+			<vlc:item tid="162"/>
+			<vlc:item tid="163"/>
+			<vlc:item tid="164"/>
+			<vlc:item tid="165"/>
+			<vlc:item tid="166"/>
+			<vlc:item tid="167"/>
+			<vlc:item tid="168"/>
+			<vlc:item tid="169"/>
+			<vlc:item tid="170"/>
+			<vlc:item tid="171"/>
+			<vlc:item tid="172"/>
+			<vlc:item tid="173"/>
+			<vlc:item tid="174"/>
+			<vlc:item tid="175"/>
+			<vlc:item tid="176"/>
+			<vlc:item tid="177"/>
+			<vlc:item tid="178"/>
+			<vlc:item tid="179"/>
+			<vlc:item tid="180"/>
+			<vlc:item tid="181"/>
+			<vlc:item tid="182"/>
+			<vlc:item tid="183"/>
+			<vlc:item tid="184"/>
+			<vlc:item tid="185"/>
+			<vlc:item tid="186"/>
+			<vlc:item tid="187"/>
+			<vlc:item tid="188"/>
+			<vlc:item tid="189"/>
+			<vlc:item tid="190"/>
+			<vlc:item tid="191"/>
+			<vlc:item tid="192"/>
+			<vlc:item tid="193"/>
+			<vlc:item tid="194"/>
+			<vlc:item tid="195"/>
+			<vlc:item tid="196"/>
+			<vlc:item tid="197"/>
+			<vlc:item tid="198"/>
+			<vlc:item tid="199"/>
+			<vlc:item tid="200"/>
+			<vlc:item tid="201"/>
+			<vlc:item tid="202"/>
+			<vlc:item tid="203"/>
+			<vlc:item tid="204"/>
+			<vlc:item tid="205"/>
+			<vlc:item tid="206"/>
+			<vlc:item tid="207"/>
+			<vlc:item tid="208"/>
+			<vlc:item tid="209"/>
+			<vlc:item tid="210"/>
+			<vlc:item tid="211"/>
+			<vlc:item tid="212"/>
+			<vlc:item tid="213"/>
+			<vlc:item tid="214"/>
+			<vlc:item tid="215"/>
+			<vlc:item tid="216"/>
+			<vlc:item tid="217"/>
+			<vlc:item tid="218"/>
+			<vlc:item tid="219"/>
+			<vlc:item tid="220"/>
+			<vlc:item tid="221"/>
+			<vlc:item tid="222"/>
+			<vlc:item tid="223"/>
+			<vlc:item tid="224"/>
+			<vlc:item tid="225"/>
+			<vlc:item tid="226"/>
+			<vlc:item tid="227"/>
+			<vlc:item tid="228"/>
+			<vlc:item tid="229"/>
+			<vlc:item tid="230"/>
+			<vlc:item tid="231"/>
+			<vlc:item tid="232"/>
+			<vlc:item tid="233"/>
+			<vlc:item tid="234"/>
+			<vlc:item tid="235"/>
+			<vlc:item tid="236"/>
+			<vlc:item tid="237"/>
+			<vlc:item tid="238"/>
+			<vlc:item tid="239"/>
+			<vlc:item tid="240"/>
+			<vlc:item tid="241"/>
+			<vlc:item tid="242"/>
+			<vlc:item tid="243"/>
+			<vlc:item tid="244"/>
+			<vlc:item tid="245"/>
+			<vlc:item tid="246"/>
+			<vlc:item tid="247"/>
+			<vlc:item tid="248"/>
+			<vlc:item tid="249"/>
+			<vlc:item tid="250"/>
+			<vlc:item tid="251"/>
+			<vlc:item tid="252"/>
+			<vlc:item tid="253"/>
+			<vlc:item tid="254"/>
+			<vlc:item tid="255"/>
+			<vlc:item tid="256"/>
+			<vlc:item tid="257"/>
+			<vlc:item tid="258"/>
+			<vlc:item tid="259"/>
+			<vlc:item tid="260"/>
+			<vlc:item tid="261"/>
+			<vlc:item tid="262"/>
+			<vlc:item tid="263"/>
+			<vlc:item tid="264"/>
+			<vlc:item tid="265"/>
+			<vlc:item tid="266"/>
+			<vlc:item tid="267"/>
+			<vlc:item tid="268"/>
+			<vlc:item tid="269"/>
+			<vlc:item tid="270"/>
+			<vlc:item tid="271"/>
+			<vlc:item tid="272"/>
+			<vlc:item tid="273"/>
+			<vlc:item tid="274"/>
+			<vlc:item tid="275"/>
+			<vlc:item tid="276"/>
+			<vlc:item tid="277"/>
+			<vlc:item tid="278"/>
+			<vlc:item tid="279"/>
+			<vlc:item tid="280"/>
+			<vlc:item tid="281"/>
+			<vlc:item tid="282"/>
+			<vlc:item tid="283"/>
+			<vlc:item tid="284"/>
+			<vlc:item tid="285"/>
+			<vlc:item tid="286"/>
+			<vlc:item tid="287"/>
+			<vlc:item tid="288"/>
+			<vlc:item tid="289"/>
+			<vlc:item tid="290"/>
+			<vlc:item tid="291"/>
+			<vlc:item tid="292"/>
+			<vlc:item tid="293"/>
+			<vlc:item tid="294"/>
+			<vlc:item tid="295"/>
+			<vlc:item tid="296"/>
+			<vlc:item tid="297"/>
+			<vlc:item tid="298"/>
+			<vlc:item tid="299"/>
+			<vlc:item tid="300"/>
+	</extension>
+</playlist>
